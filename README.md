@@ -1,4 +1,7 @@
-# SimpleCRM-P
+# SimpleCRM
+
+Live frontend: https://really-simple-crm-app.herokuapp.com/
+Live backend: https://really-simple-crm.herokuapp.com/
 
 ## Setup Backend
 
@@ -54,5 +57,3 @@ Run app:
 ```bash
 npm start
 ```
-
-
